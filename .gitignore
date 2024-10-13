@@ -126,3 +126,5 @@ output-folders-for-testing
 
 # temp files
 tmp/
+
+.early.coverage
